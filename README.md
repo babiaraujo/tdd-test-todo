@@ -1,5 +1,6 @@
 Aplicação de Autenticação e Lista de Tarefas
-Esta é uma aplicação Node.js que demonstra um sistema simples de autenticação de usuário e uma lista de tarefas (TODO list). A aplicação usa tecnologias como Express.js para o servidor, MongoDB para armazenamento de dados e Mocha/Chai para testes.
+
+Em Node.js que demonstra um sistema simples de autenticação de usuário e uma lista de tarefas (TODO list). A aplicação usa tecnologias como Express.js para o servidor, MongoDB para armazenamento de dados e Mocha/Chai para testes.
 
 Configuração
 Antes de executar a aplicação, você precisa configurar algumas coisas:
