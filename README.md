@@ -23,15 +23,21 @@ npm start
 A aplicação estará acessível em http://localhost:3000.
 
 Rotas
+
 A aplicação possui as seguintes rotas:
 
+
 POST /api/register: Registra um novo usuário.
+
 POST /api/login: Loga um usuário existente.
+
 POST /api/tasks: Cria uma nova tarefa.
+
 GET /api/tasks: Lista todas as tarefas do usuário logado.
+
 Você pode usar ferramentas como Postman ou cURL para interagir com essas rotas.
 
-Testes
+Testes: 
 A aplicação inclui testes automatizados para garantir seu correto funcionamento. Você pode executar os testes com o seguinte comando:
 
 npm test
