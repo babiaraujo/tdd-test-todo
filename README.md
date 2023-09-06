@@ -1,8 +1,8 @@
 Aplicação de Autenticação e Lista de Tarefas
 
-Em Node.js que demonstra um sistema simples de autenticação de usuário e uma lista de tarefas (TODO list). A aplicação usa tecnologias como Express.js para o servidor, MongoDB para armazenamento de dados e Mocha/Chai para testes.
+Utilizando Node.js e essa aplicação demonstra um sistema simples de autenticação de usuário e uma lista de tarefas (TODO list). A aplicação usa tecnologias como Express.js para o servidor, MongoDB para armazenamento de dados e Mocha/Chai para testes.
 
-Configuração
+Configuração:
 Antes de executar a aplicação, você precisa configurar algumas coisas:
 
 Configuração do Banco de Dados: Certifique-se de que você tenha o MongoDB instalado e em execução. Você também pode configurar as informações de conexão no arquivo .env (veja o exemplo .env.example para orientação).
@@ -15,7 +15,7 @@ Variáveis de Ambiente: Crie um arquivo .env na raiz do projeto e defina as vari
 JWT_SECRET=seu_segredo_jwt
 MONGODB_URI=sua_url_do_mongodb
 
-Execução
+Execução: 
 Depois de configurar a aplicação, você pode executá-la usando o seguinte comando:
 
 npm start
